@@ -1,0 +1,15 @@
+html{
+    background-image: url("built.jpg");
+    background-repeat: no-repeat;
+    background-position: center -230px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    color: #2B80FF;
+    text-align: center;
+}
+p {
+    color: #12376E;
+    text-align: center;
+}
